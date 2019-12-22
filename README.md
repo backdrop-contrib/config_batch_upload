@@ -6,6 +6,12 @@ DESCRIPTION
 A proof of concept for the ability to upload a batch of config files that
 would add a feature to Backdrop CMS.
 
+At this early stage, this module adds a "recipe" tab to the configuration 
+menu options. Users can upload a batch of configuration files through the
+UI. The configuration files must be in tarball with tar.gz format.
+
+There is no export feature at this time.
+
 
 LICENSE
 ---------------    
