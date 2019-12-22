@@ -3,6 +3,8 @@ Config Batch Upload
 
 DESCRIPTION
 -----------
+Not working at all. 
+
 A proof of concept for the ability to upload a batch of config files that
 would add a feature to Backdrop CMS.
 
