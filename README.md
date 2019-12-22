@@ -12,8 +12,14 @@ At this early stage, this module adds a "recipe" tab to the configuration
 menu options. Users can upload a batch of configuration files through the
 UI. The configuration files must be in tarball with tar.gz format.
 
-There is no export feature at this time.
+Here is how I planned to start:
 
+1) User uploads a batch of config files in a tarball
+2) Tarball is stored in temp directory
+3) Staging directory is cleared
+4) Batch of config in tarball is decompressed and dropped into staging directory
+5) All other currently config in "active" directory is copied into Staging
+6) User then uses "Syncronize" feature to add their config recipe/feature
 
 LICENSE
 ---------------    
