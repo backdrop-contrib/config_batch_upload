@@ -1,6 +1,10 @@
 Config Batch Upload
 ===================
 
+Development of this module has ceased. The uses I had for this module can now
+be accomplished in other better ways.
+
+
 DESCRIPTION
 -----------
 A proof of concept for the ability to upload a batch of config files that
@@ -31,9 +35,9 @@ for complete text.
 CURRENT MAINTAINERS
 ---------------    
 
-- Tim Erickson (https://github.com/stpaultim/)
+- Unsupported
 
 CREDITS   
 --------------- 
 
-Development supported by Triplo LLC - http://www.triplo.co
+Initial Development supported by Triplo LLC - http://www.triplo.co
